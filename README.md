@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @steveGillet
 - 👀 I’m interested in Machine Learning, Embedded Systems, Robotics, and Web Development
-- 🌱 I’m currently learning CSS, SQL, and GitLab
+- 🌱 I’m currently learning Machine Learning and Robotics with Python
 - 💞️ I’m looking to collaborate on anything
 - 📫 How to reach me: stephen.gillet@gmail.com
 
